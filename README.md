@@ -1,4 +1,4 @@
-# Hi, I am Mysia Santana!
+# Hi, I am Mysia Santana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
   <a href="https://github.com/Mysia14">
