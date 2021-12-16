@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Mysia14">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mysia14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=mysia14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysia14&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div align= "center" style="display: inline_block"><br>
