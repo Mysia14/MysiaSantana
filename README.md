@@ -7,7 +7,9 @@
  Yesterday a Nurse, Today a Web Developer. 
  So, Challenge is my last name!
 </p>
-
+<p align='center'>
+As fresh graduated at SAIT I am looking for a next step in my new carrer as Front End Developer Junior.
+</p>
  
 
 
