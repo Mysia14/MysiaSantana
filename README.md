@@ -9,6 +9,8 @@
 </p>
 <p align='center'>
 As fresh graduated at SAIT (Southern Alberta Institute of Technology) I am looking for a next step in my new carrer as Front End Developer Junior.
+ </p>
+ <p align='center'>
  I am current studying React 
 </p>
  
