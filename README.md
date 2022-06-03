@@ -1,6 +1,6 @@
  
 <h1 align='center'>
- Hi there, I am Mysia Santana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px">
+ Hi there, I am Mysia Santana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="30px>
 </h1>
 
 <p align='center'>
