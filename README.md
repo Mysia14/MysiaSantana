@@ -11,8 +11,8 @@
 As fresh graduated at SAIT (Southern Alberta Institute of Technology) I am looking for a next step in my new carrer as a Junior Front End Developer .
  </p>
  <p align='center'>
- I am current studying ReactJS 
-</p>
+ I am current improving my tech skills :  ReactJS / Node.JS / TypeScript
+</p> 
  
 
 
