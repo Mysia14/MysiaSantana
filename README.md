@@ -4,14 +4,15 @@
 </h1>
 
 <p align='center'>
- Yesterday a Nurse, Today a Web Developer. 
+ Yesterday a Nurse, Today a Junior Front End Developer. 
  So, Challenge is my last name!
 </p>
 <p align='center'>
-As fresh graduated at SAIT (Southern Alberta Institute of Technology) I am looking for a next step in my new carrer as a Junior Front End Developer .
+One of steps that I've took to become a IT professioanl was studing Full Stack Web Developement Programat at SAIT </p>
+<p align='center'>(Southern Alberta Institute of Technology).
  </p>
  <p align='center'>
- I am current improving my tech skills :  ReactJS / Node.JS / TypeScript
+ I am current improving my tech skills :  ReactJS / Node.JS / Styled Components.
 </p> 
  
 
